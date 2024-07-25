@@ -1,7 +1,5 @@
-<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://i.ibb.co/4J9LXxS/cclogo.png" width=160 title="CodeChef-VIT" alt="Codechef-VIT"></a>
-</p>
 
-<h2 align="center"> PawnStar </h2>
+<h2 align="center"> BeyondChess </h2>
 <br/>
 
 > This repository contains a chess engine using a mix of traditional algorithms and neural networks, employing minimax algorithm and alpha-beta pruning to search for the best move, and allowing for configuration of search depth and evaluation function weights.
@@ -56,27 +54,7 @@ python run.py
 			</p>
 		</td>
 		<td>
-		Sachin Raghuvanshi
-		<p align="center">
-			<img src = "https://i.ibb.co/4J9LXxS/cclogo.png" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/SachinRaghuvanshi2003">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>
-				<td>
-		Tarran Sidhaarth
-		<p align="center">
-			<img src = "https://i.ibb.co/4J9LXxS/cclogo.png" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/Tarran-Sidhaarth">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>
+		
 	</tr>
 </table>
 
