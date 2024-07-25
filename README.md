@@ -59,6 +59,3 @@ python run.py
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<p align="center">
-	Made with :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
-</p>
