@@ -45,7 +45,7 @@ python run.py
 	<td>
 		Priyanshu Kumar
 		<p align="center">
-			<img src = "https://i.ibb.co/4J9LXxS/cclogo.png" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+			
 		</p>
 			<p align="center">
 				<a href = "https://github.com/mekken2">
