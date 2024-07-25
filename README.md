@@ -49,7 +49,7 @@ python run.py
 		</p>
 			<p align="center">
 				<a href = "https://github.com/mekken2">
-					 width="36" height = "36" alt="GitHub"/>
+					Priyanshu Kumar
 				</a>
 			</p>
 		</td>
