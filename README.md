@@ -54,8 +54,6 @@ python run.py
 			</p>
 		</td>
 		<td>
-		
-	</tr>
 </table>
 
 ## License
